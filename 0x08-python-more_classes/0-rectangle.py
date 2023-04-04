@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-# 0-triangle.py
+# 0-rectangle.py
 
-"""Defines a Triangle class."""
+"""Defines a Rectangle class."""
 
 
-class Triangle:
-    """Represent a triangle."""
+class Rectangle:
+    """Represent a new class  rectangle."""
     pass
